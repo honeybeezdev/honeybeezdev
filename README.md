@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ines 👋
 
-<!--
-**honeybeezdev/honeybeezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thoughtful UI/UX, AI-assisted workflows & modern web experiences ✨
 
-Here are some ideas to get you started:
+Currently building and exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* modern web applications
+* thoughtful UI/UX
+* AI-assisted development workflows
+* creative digital tools & experiences
+
+## About me
+
+I enjoy building digital experiences that feel intuitive, aesthetic and genuinely helpful.
+
+Focused on combining development, design and AI into thoughtful modern products and workflows.
+
+## Connect
+
+🌐 https://honeybeez.dev
+📫 [hello@honeybeez.dev](mailto:hello@honeybeez.dev)
